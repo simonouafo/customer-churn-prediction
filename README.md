@@ -171,7 +171,3 @@ The dataset is clean and reliable, allowing robust analysis.
 > Combining predictive modeling + business strategy
 
 ---
-
-## 🎥 (Optional) Demo
-
-Add your Canva / video explanation here:
